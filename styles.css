@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #config-section select {
+    margin-right: 10px;
+  }
+  
+  #quiz-section {
+    margin-top: 20px;
+  }
+  
+  #quiz {
+    margin-bottom: 10px;
+  }
+  
+  #score {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  #new-trivia-btn {
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+  }
+  
